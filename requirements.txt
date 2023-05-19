@@ -1,0 +1,6 @@
+pyfiglet
+random
+colorama
+bs4
+pandas
+requests
